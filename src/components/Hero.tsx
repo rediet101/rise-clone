@@ -24,7 +24,7 @@ const Hero = () => {
 
         {/* Buttons */}
         <div className="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4">
-          <Link href="/product">
+          <Link href="/products">
             <Button
               variant="default"
               className="w-full md:w-auto px-10 py-8 text-lg "
